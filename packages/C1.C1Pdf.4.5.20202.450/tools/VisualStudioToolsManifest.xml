@@ -1,0 +1,7 @@
+﻿<FileList>
+  <File Reference="C1.C1Pdf.4.5.2.dll">
+    <ToolboxItems VSCategory="C1 WinForms Controls" BlendCategory="C1 WinForms Controls">
+      <Item Type = "C1.C1Pdf.C1PdfDocument"/>
+    </ToolboxItems>
+  </File>
+</FileList>

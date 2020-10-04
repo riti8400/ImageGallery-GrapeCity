@@ -1,0 +1,31 @@
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\Image Gallery Demo.exe.config
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\Image Gallery Demo.exe
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\Image Gallery Demo.pdb
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.C1Pdf.4.5.2.dll
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.C1Zip.4.5.2.dll
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.Win.4.5.2.dll
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.Win.C1Command.4.5.2.dll
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.Win.C1DX.4.5.2.dll
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.Win.C1Input.4.5.2.dll
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.Win.C1TileControl.4.5.2.dll
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.C1Pdf.4.5.2.xml
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.C1Zip.4.5.2.xml
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.Win.4.5.2.xml
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.Win.C1Command.4.5.2.xml
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.Win.C1DX.4.5.2.xml
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.Win.C1Input.4.5.2.xml
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.Win.C1TileControl.4.5.2.xml
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\obj\Debug\Image Gallery Demo.csprojAssemblyReference.cache
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\obj\Debug\Image Gallery Demo.exe.config
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\obj\Debug\Image_Gallery_Demo.ImageGallery.resources
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\obj\Debug\Image_Gallery_Demo.Properties.Resources.resources
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\obj\Debug\Image Gallery Demo.csproj.GenerateResource.cache
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\obj\Debug\Image Gallery Demo.exe.licenses
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\obj\Debug\Image Gallery Demo.csproj.CoreCompileInputs.cache
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\obj\Debug\Image Gallery Demo.csproj.CopyComplete
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\obj\Debug\Image Gallery Demo.exe
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\obj\Debug\Image Gallery Demo.pdb
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.Win.Ribbon.4.5.2.dll
+C:\Users\ritim\source\repos\Image Gallery Demo\Image Gallery Demo\bin\Debug\C1.Win.Ribbon.4.5.2.xml
